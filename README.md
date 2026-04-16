@@ -1,14 +1,11 @@
 # 💫 About Me:
-💫 Passionate about building scalable backend systems and AI-powered applications
+Gold Medalist Software Engineer (MNIT Jaipur, 9.62 CGPA) building scalable backend systems and AI-powered applications.
 
-💻 Tech Stack: Java (Spring Boot), Python, MERN
-🔗 APIs & Data: REST, GraphQL, SQL, MongoDB
-🤖 AI & Automation: Prompt Engineering, AI Tools, MCP Workflows
-⚡ Tools: Playwright, Automation Systems
-🧠 Focus Areas: System Design, Performance Optimization, Real-world Problem Solving
+I work across the stack with Java (Spring Boot), Python, and MERN, designing high-performance APIs (REST/GraphQL) and end-to-end systems that are clean, efficient, and production-ready.
 
-🔹 Currently Building: AI-powered GitHub Repo Analyzer
-🔹 Goal: Become a strong product engineer (backend + AI systems)
+Strong foundation in DSA, OOPs, DBMS, and System Design, with a focus on solving real-world problems through engineering thinking.
+
+Currently exploring AI-driven development, prompt engineering, automation (MCP), and scalable architectures.
 
 
 ## 🌐 Socials:
