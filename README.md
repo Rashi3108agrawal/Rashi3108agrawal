@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Rashika — a Gold Medalist Software Engineer passionate about building AI-powered backend systems, intelligent automation, and scalable platforms. I enjoy turning complex problems into clean, production-ready solutions using Python, Java, SQL, and modern full-stack technologies. My work focuses on integrating machine learning into real-world systems, optimizing performance, and designing reliable, secure architectures. Always curious, always building.
+💫 Passionate about building scalable backend systems and AI-powered applications
+
+💻 Tech Stack: Java (Spring Boot), Python, MERN
+🔗 APIs & Data: REST, GraphQL, SQL, MongoDB
+🤖 AI & Automation: Prompt Engineering, AI Tools, MCP Workflows
+⚡ Tools: Playwright, Automation Systems
+🧠 Focus Areas: System Design, Performance Optimization, Real-world Problem Solving
+
+🔹 Currently Building: AI-powered GitHub Repo Analyzer
+🔹 Goal: Become a strong product engineer (backend + AI systems)
 
 
 ## 🌐 Socials:
