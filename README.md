@@ -60,6 +60,33 @@ Backend-focused Software Engineer building **scalable systems and AI-powered app
 
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Rashi3108agrawal/repoAnalyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashi3108agrawal&repo=repoAnalyzer&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Rashi3108agrawal/ai-knowledge-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashi3108agrawal&repo=ai-knowledge-assistant&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Rashi3108agrawal/decision_maker_assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashi3108agrawal&repo=decision_maker_assistant&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+### 🧠 What These Projects Demonstrate
+
+- ⚡ **Repo Analyzer** → Distributed systems, async processing, Redis queues, AI insights  
+- 📄 **AI Knowledge Assistant** → Full-stack AI app, document intelligence, NLP pipelines  
+- ☁️ **Decision Maker Assistant** → System design thinking, cloud optimization, data visualization  
+
+
 ## 📊 GitHub Insights
 
 <p align="center">
