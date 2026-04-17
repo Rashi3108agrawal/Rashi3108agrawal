@@ -1,36 +1,98 @@
-## 👋 About Me
-
-Gold Medalist Engineer (MNIT Jaipur, 9.62 CGPA) building **scalable backend systems and AI-driven applications**.
-
-Backend-focused full-stack developer working with **Java (Spring Boot), Python, and MERN** to design **high-performance APIs and systems that scale under load**.
-
-Strong in **DSA, System Design, OOPs, and DBMS** — I focus on **clean architecture, performance, and real-world problem solving**.
-
-Currently building in **AI, automation (MCP), and developer tooling** — moving beyond CRUD to **engineer systems that actually matter**.
-
-# Skills
-<p align="center"> <img src="https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-.net-333?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/-graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/-dsa-333?style=flat-square&logo=dsa&logoColor=white"/> <img src="https://img.shields.io/badge/-Object%20oriented%20programming-333?style=flat-square&logo=objectorientedprogramming&logoColor=white"/> <img src="https://img.shields.io/badge/-system%20design-333?style=flat-square&logo=systemdesign&logoColor=white"/> <img src="https://img.shields.io/badge/-user%20experience-333?style=flat-square&logo=userexperience&logoColor=white"/> <img src="https://img.shields.io/badge/-Artificial%20intelligence-333?style=flat-square&logo=artificialintelligence&logoColor=white"/> <img src="https://img.shields.io/badge/-prompt%20engineering-333?style=flat-square&logo=promptengineering&logoColor=white"/> <img src="https://img.shields.io/badge/-automation-333?style=flat-square&logo=automation&logoColor=white"/> <img src="https://img.shields.io/badge/-Test%20automation-333?style=flat-square&logo=testautomation&logoColor=white"/> <img src="https://img.shields.io/badge/-Selenium-333?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/-Playwright-333?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/-MCP%20server-333?style=flat-square&logo=mcpserver&logoColor=white"/> <img src="https://img.shields.io/badge/-SQL-333?style=flat-square&logo=sql&logoColor=white"/> <img src="https://img.shields.io/badge/-DBMS-333?style=flat-square&logo=dbms&logoColor=white"/> <img src="https://img.shields.io/badge/-React.js-333?style=flat-square&logo=reactdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Data%20structures%20and%20algorithms-333?style=flat-square&logo=datastructuresandalgorithms&logoColor=white"/> <img src="https://img.shields.io/badge/-System%20design-333?style=flat-square&logo=systemdesign&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-postman-333?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/-bootstrap-333?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-agile-333?style=flat-square&logo=agile&logoColor=white"/> <img src="https://img.shields.io/badge/-SDLC-333?style=flat-square&logo=sdlc&logoColor=white"/> <img src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-Vite-333?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/-Fastapi-333?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/-UI%2FUX-333?style=flat-square&logo=ui/ux&logoColor=white"/> </p> </p>
-
-## 📈 Contribution Activity
+<h1 align="center">Rashika Agrawal</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi3108agrawal&theme=github-dark&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Systems+Engineer;AI+Applications+Builder;Distributed+Systems+Enthusiast;MNIT+Jaipur+Gold+Medalist&center=true&width=650&height=50">
+</p>
+
+<p align="center">
+  <b>Software Engineer • Backend Systems • AI Applications</b><br/>
+  MNIT Jaipur • Gold Medalist (CGPA: 9.62)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rashi3108agrawal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 👋 About Me
+
+Backend-focused Software Engineer building **scalable systems and AI-powered applications**.
+
+- ⚙️ Core strength: **Java (Spring Boot), Python, MERN**
+- 🧠 Strong foundation in **DSA, System Design, OOP, DBMS**
+- 🤖 Building **AI systems (RAG, MCP, automation workflows)**
+- 🎨 Capable of delivering **end-to-end full-stack applications**
+- 🚀 Focused on **performance, scalability, and real-world systems**
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<b>Languages</b><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<b>Backend & Systems</b><br/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=for-the-badge"/>
+
+<b>Frontend</b><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<b>Databases</b><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<b>Core CS</b><br/>
+<img src="https://img.shields.io/badge/DSA-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-333?style=for-the-badge"/>
+
+<b>AI & Tools</b><br/>
+<img src="https://img.shields.io/badge/RAG-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20APIs-333?style=for-the-badge"/>
+
 </p>
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rashi3108agrawal&show_icons=true&theme=dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi3108agrawal&theme=github-dark-blue&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rashi3108agrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi3108agrawal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi3108agrawal&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi3108agrawal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi3108agrawal&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Gold Medalist — MNIT Jaipur  
+- 🏅 GATE AIR 1132  
+- ⚙️ Backend + AI systems engineering  
+- 🚀 Experience in scalable architectures  
+
+---
 
 ## 📫 Connect
 
-<p align="left">
+<p align="center">
   <a href="mailto:rashi3108agrawal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -40,4 +102,10 @@ Currently building in **AI, automation (MCP), and developer tooling** — moving
   <a href="https://github.com/Rashi3108agrawal">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
