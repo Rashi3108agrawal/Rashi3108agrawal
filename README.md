@@ -26,7 +26,7 @@ I build backend systems and production GenAI applications — currently at Wells
 https://github.com/Rashi3108agrawal/repoAnalyzer
 A tool that analyzes code repositories to surface actionable metrics and insights for engineering teams: calculates code complexity, dependency graphs, contributor hotspots, and automated suggestions to prioritize refactors and technical debt reduction.
 
-🔗 Live: (add if deployed) · Stack: Java, Spring Boot, PostgreSQL, React
+· Stack: Java, Spring Boot, PostgreSQL, React
 
 ---
 
@@ -34,7 +34,7 @@ A tool that analyzes code repositories to surface actionable metrics and insight
 https://github.com/Rashi3108agrawal/ai-knowledge-assistant
 A RAG-based document assistant that indexes documents and provides context-aware answers with citations. Useful for internal knowledge bases, onboarding docs, and searchable product/process documentation.
 
-🔗 Live: (add if deployed) · Stack: Node.js, React, MongoDB, OpenAI API
+· Stack: Node.js, React, MongoDB, OpenAI API
 
 ---
 
@@ -42,7 +42,7 @@ A RAG-based document assistant that indexes documents and provides context-aware
 https://github.com/Rashi3108agrawal/decision_maker_assistant
 An assistant that helps compare options and visualize trade-offs to support data-driven decisions — integrates scoring models, sensitivity analysis, and charts to present clear recommendations for product and business choices.
 
-🔗 Live: (add if deployed) · Stack: Node.js, React, Python (analysis services)
+· Stack: Node.js, React, Python (analysis services)
 
 ## Tech Stack
 
@@ -55,13 +55,6 @@ An assistant that helps compare options and visualize trade-offs to support data
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rashi3108agrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi3108agrawal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## Connect
