@@ -80,10 +80,6 @@ Backend-focused Software Engineer building **scalable systems and AI-powered app
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashi3108agrawal&repo=ai-knowledge-assistant&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Rashi3108agrawal/decision_maker_assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashi3108agrawal&repo=decision_maker_assistant&theme=tokyonight&hide_border=true"/>
-</a>
-
 </p>
 
 ---
